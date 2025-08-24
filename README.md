@@ -20,3 +20,8 @@ Functionality
 •	The counter will not increment past 31 or decrement below 0.
 •	The high flag is asserted when the counter reaches 31.
 •	The low flag is asserted when the counter reaches 0.
+
+Synthesis Diagram
+•	The block diagram of the counter is shown below.  
+*(Created manually using [draw.io](https://app.diagrams.net))*
+![Up_Dn_Counter_Synthesis_Diagram](Up_Dn_Counter_Synthesis_Diagram.png)
